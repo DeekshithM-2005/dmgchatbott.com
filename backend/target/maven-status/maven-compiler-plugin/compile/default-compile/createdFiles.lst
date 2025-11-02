@@ -1,0 +1,4 @@
+com\example\chatbot\ChatbotApplication.class
+com\example\chatbot\controller\ChatController$ChatResponse.class
+com\example\chatbot\controller\ChatController.class
+com\example\chatbot\controller\ChatController$ChatRequest.class
